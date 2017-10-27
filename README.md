@@ -14,9 +14,9 @@ npm run dev
 
 ```
 ## 部分截图
-![GitHub](./src/common/image/yanshi1.jpg)
-![GitHub](./src/common/image/yanshi2.jpg)
-![GitHub](./src/common/image/yanshi3.jpg)
-![GitHub](./src/common/image/yanshi4.jpg)
-![GitHub](./src/common/image/yanshi5.jpg)
-![GitHub](./src/common/image/yanshi6.jpg)
+![GitHub](./src/common/image/yanshi1.png)
+![GitHub](./src/common/image/yanshi2.png)
+![GitHub](./src/common/image/yanshi3.png)
+![GitHub](./src/common/image/yanshi4.png)
+![GitHub](./src/common/image/yanshi5.png)
+![GitHub](./src/common/image/yanshi6.png)
